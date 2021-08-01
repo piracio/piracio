@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @piracio (Horacio Miranda), an old school system Engineer.
+- 👀 I’m interested in databases, networking, firewall, and Linux since 1992, I love makings things faster and reliable.
+- 🌱 I’m currently learning Java programing because I am good at SRE, I want to be a complete SRE so going back to making programs is important to me.
+- 💞️ I’m looking to collaborate on making Adempiere secure and bulletproof, as DBA I will ensure SQL performs, as a Network Engineer I will ensure sockets are used wisely as possible (pools), as SRE my focus for Adempiere will be: Software reliable and performant.
+- 📫 How to reach me : hmiranda@gmail.com
